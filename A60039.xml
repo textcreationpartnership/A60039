@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the mineral waters lately found out in the city of Canterbury</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60039</idno>
+            <idno type="STC">Wing S3541</idno>
+            <idno type="STC">ESTC R221187</idno>
+            <idno type="EEBO-CITATION">99832543</idno>
+            <idno type="PROQUEST">99832543</idno>
+            <idno type="VID">37017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37017)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2060:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the mineral waters lately found out in the city of Canterbury</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Canterbury :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect; cropped and torn affecting numbering.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mineral water --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:37017:1" rendition="simple:additions"/>
+            <head>A SHORT ACCOUNT OF THE <hi>Mineral Waters</hi> Lately found out in the CITY of CANTERBURY.</head>
+            <p n="1">I. VVHEREAS ſome Perſons have, and do ſtill endeavour to divert People from the Uſe of the <hi>Mineral Waters</hi> found out in this City a few Years paſt; either out of Prejudice to the Perſons concern'd, or for other Reaſons better known to themſelves: It is thought adviſeable (that the Publick may not be depriv'd of the Benefit of ſo great a Remedy) to publiſh this ſhort Account of 'em; and at the ſame time to de<g ref="char:EOLhyphen"/>ſire thoſe Perſons that find ſo much fault with theſe Waters, that if they have any thing to object againſt 'em, or againſt the Account here given of 'em, to acquaint the Publick with it, that the World may not be impos'd upon and damnify'd by what is here ſaid of 'em.</p>
+            <p n="2">II. In digging theſe Wells, they firſt obſerv'd a fat black Mold extending it ſelf three foot deep, and
+<pb n="2" facs="tcp:37017:2"/>gradually changing into another ſort of Earth very fat, and like Butter, if ſquees'd between the Fingers. This <hi>ſecond</hi> Lay of Earth was two foot thick; the Colour of it was yellow, ſomething mixt: its Odour very ſtrong and mineral, and being expos'd to the Sun for a while, it ſmell'd like Brimſtone. After this they met with a Quickſand of a darker Colour than the firſt Earth, mixt with ſeveral little black Stones; the Smell was ſtronger than before. Two foot further under this Quickſand a hard Rock appeared, out of which the Water guſh'd out. They dug two Wells at about ſeven Foot diſtance from each other. The Bigneſs is between 8 and 9 Foot deep from its own Surface, and 12 from the Surface of the Ground a<g ref="char:EOLhyphen"/>bout it, and reacheth the Rock. The other Well is not ſo deep by two Foot, and only toucheth the Sand. The firſt is ſtronger of the Spirit, and the Mineral is more ferruginous, but the ſecond is ſtronger of the <hi>Sulphur.</hi>
+            </p>
+            <p n="3">III. Two Drams of the ſecond Lay of Earth, found in digging theſe Wells, being put into four Ounces of <hi>Spirit of Vinegar,</hi> there preſently aroſe a conſiderable Ebullition, and ſoon after the <hi>Spirit</hi> was ting'd with a yellow browny Colour. This <hi>Tincture</hi> ſuffer'd no Alteration with the Infuſion of <hi>Logwood,</hi> nor with <hi>Galls,</hi> but with Oil of <hi>Tartar p. deliq.</hi> turn'd greeniſh, and with the Tincture of <hi>Lig<g ref="char:EOLhyphen"/>num Nephriticum,</hi> of a pale Red.</p>
+            <p n="4">IV. This Water taken up at the Well, is extra<g ref="char:EOLhyphen"/>ordinary limpid, but grows ſomething whitiſh in
+<pb n="3" facs="tcp:37017:2"/>a quarter of an Hour, and in half an Hour the Spirit is loſt, and the Mineral hangs firſt on the ſides of the Glaſs, and then falls gradually to the bottom; and if a Bottle with this Water be never ſo well ſtop'd, it will not keep its Spirit. Its Taſte is Maſcu<g ref="char:EOLhyphen"/>line and auſtere. The Smell is mineral and ſtrong, much upon the Sulphur, eſpecially the little Well.</p>
+            <p n="5">V. The Root of the Tongue and Stools of them that drink of the little Well are grayiſh, but if they drink of the great Well they are brown.</p>
+            <p n="6">VI. This Water is commonly cold; but in Froſty Weather it is ſo warm as to ſmoak, and melt all the Ice and Snow that comes near it.</p>
+            <p n="7">VII. By Diſtillation it giveth nothing but a Wa<g ref="char:EOLhyphen"/>ter in every reſpect like common Water.</p>
+            <p n="8">VIII. <hi>Mutton</hi> boil'd in this Water is more white and tender than in common Water. Some think it hath made their <hi>Beer</hi> ſtronger being brew'd with it. <hi>Linen</hi> waſh'd in it turns yellow. It will not lather with <hi>Soap.</hi> The <hi>Glaſſes</hi> the Water is dip'd with grow yellow at the bottom, which no Scowring can take off.</p>
+            <p n="9">IX. The <hi>Weight</hi> of it varies much, according to the Seaſons and Weather. In <hi>May</hi> 1704, it weighed three Grains lighter than common Water in the Quantity of a Pound. In the Spring of 1705, it was equal in Weight with common Water; but in the Month of <hi>Auguſt</hi> of the ſame Year, the Weight was conſiderably increas'd, becauſe of the exceeding dry Weather of that Summer; which made the Wa<g ref="char:EOLhyphen"/>ter
+<pb n="4" facs="tcp:37017:3"/>ſo ſtrong with the Mineral, that it loſt its Lim<g ref="char:EOLhyphen"/>pidity. In general about Midſummer, if the Wea<g ref="char:EOLhyphen"/>ther is not over dry, the Weight of this Water is equal to common Water.</p>
+            <p n="10">X. A ſingle Grain Weight of <hi>Gall</hi> will turn a Pint and a half of this Water of a very noble deep red, and that in an inſtant. <hi>Syrup</hi> of <hi>Violets</hi> turns it of a Graſs-green. With the Infuſion of <hi>Braſil</hi> it giveth a deep lovely blue: With that of <hi>Lignum Nephri<g ref="char:EOLhyphen"/>ticum,</hi> firſt a light green, then a light yellow, with a blue Crown on the Surface: With the Infuſion of <hi>Logwood</hi> a blue black: With that of <hi>Fuſtick Wood,</hi> a dusky yellow: With the <hi>Flowers</hi> of <hi>Pomegranates,</hi> a fair Violet: With <hi>Leaves</hi> of <hi>Green Thea,</hi> a fine purpliſh blue: With good <hi>Nants Brandy,</hi> an ele<g ref="char:EOLhyphen"/>gant Sky Colour.</p>
+            <p n="11">XI. This Water turns a <hi>Solution</hi> of the <hi>Sugar</hi> of Lead milky in one inſtant; and even the <hi>Solution</hi> of <hi>Sublimate</hi> in a quarter of an hour. But <hi>Oil</hi> of <hi>Tartar, Spirit</hi> of <hi>Vitriol, Spirit</hi> of <hi>Sal Armoniac,</hi> make no Alteration with it.</p>
+            <p n="12">XII. In calm Weather a thick fat Film covers the Surface of this Water, of more Variety of Colours than a Rainbow: A Spoonful of it drunk hath the Effect of, and compoſeth as much to Sleep as a mo<g ref="char:EOLhyphen"/>derate Doſe of <hi>Opium.</hi> Being dry'd by Evaporation, it taſted very fat, and ſet ſo between the Fingers. Some of this Powder being caſt upon a red hot Iron, moſt of it immediately conſum'd away with ſome Sparkling; and what remain'd was of the Co<g ref="char:EOLhyphen"/>lour
+<pb n="5" facs="tcp:37017:3"/>of Ruſt of Iron, and taſted partly Stiptick and Earthy, and partly Salted.</p>
+            <p n="13">XIII. By gentle Evaporation this Water yeilds a yellowiſh Sediment, more or leſs, according to the Seaſons. Laſt Spring a Quart yeilded but ſix Grains of it; but in <hi>September</hi> following it afforded me about nine. Whereas a Pound of <hi>Tunbridge</hi> Water gave but one Grain Weight of this Sediment to the Honourable <hi>Robert Boyle,</hi> as may be ſeen in his <hi>Short Memoirs of Mineral Waters;</hi> ſo that when theſe Wa<g ref="char:EOLhyphen"/>ters are weakeſt, they are three to one ſtronger of the <hi>Mineral</hi> than that of <hi>Tunbridge.</hi>
+            </p>
+            <p n="14">XIV. This abovementioned Sediment being boil'd in River Water, made a ſtrong <hi>Lixivium,</hi> with which the <hi>Tincture</hi> of <hi>Galls,</hi> nor that of <hi>Braſil,</hi> nor that of <hi>Logwood,</hi> nor the <hi>Solution</hi> of <hi>Sugar</hi> of <hi>Lead,</hi> made no remarkable Alteration: But <hi>Syrup</hi> of <hi>Violets</hi> turn'd it green, <hi>Spirit</hi> of <hi>Nitre, Spirit</hi> of <hi>Sulphur,</hi> caus'd no ſenſible Fermentation.</p>
+            <p n="15">XV. Some of the aforeſaid <hi>Lixivium</hi> being gently evaporated, yeilded a fat ſulphureous kind of Salt. There is more or leſs of this Salt, according to the Seaſons; This Spring I had about two Grains of it out of ten Grains of Sediment; but laſt Autumn I had about three.</p>
+            <p n="16">XVI. The Stones on, and the Chanel in which this Water glides along, is always lin'd with a yellow hard Cruſt.</p>
+            <pb n="6" facs="tcp:37017:4"/>
+            <p n="17">XVII. I will at preſent ſuperſede ſeveral more Experiments made upon this Subject, deſigning, God willing, to enlarge upon it another time; and I have reaſon to hope here is enough to ſhow,</p>
+            <p n="1">1. That what ſome have ſaid, that this Water was Artificial; others, that it was ting'd with Cop<g ref="char:EOLhyphen"/>per; others, that it comes from the <hi>Tan-Pits</hi> of the Neighbourhood, <hi>&amp;c.</hi> is the Effect only of Preju<g ref="char:EOLhyphen"/>dice, or Ignorance, to give it no worſe Name.</p>
+            <p n="2">2. That this Water is animated with a conſider<g ref="char:EOLhyphen"/>able Quantity of a fine <hi>volatile ſulphureous Spirit,</hi> admirably ſympathizing with that of our Body.</p>
+            <p n="3">3. That it is impregnated with a <hi>ferruginous li<g ref="char:EOLhyphen"/>quid Sulphur,</hi> a <hi>Liquamen Martis, Iron</hi> in <hi>Embrio,</hi> and that to three times as much more as <hi>Tunbridge Wa<g ref="char:EOLhyphen"/>ter,</hi> to which it is alſo preferable on account of its not being ſo fixt.</p>
+            <p n="4">4. That there is in it an <hi>alcaleous ſulphureous Salt,</hi> to about a fourth part of the whole mineral Sub<g ref="char:EOLhyphen"/>ſtance; and that it is of the ſame Nature with the Salt found in the <hi>German Spaw-Water.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:37017:4"/>
+            <head>THE OPERATIONS and VIRTUES OF THIS WATER.</head>
+            <p n="1">I. THIS Water being drink'd ſet pleaſantly up<g ref="char:EOLhyphen"/>on the Stomach, (except ſometime in the Beginning, when the Stomach is foul) works it ſelf off by Urine, keeps the Body moderately open, and ſometime purges. It creates a good Stomach, but not ſuch a voracious Appetite, as to make the Drink<g ref="char:EOLhyphen"/>ers ſick after Dinner; nor is it ſo cold; nor does it go off with a kind of <hi>Teneſmus,</hi> as <hi>Tunbridge</hi> Wa<g ref="char:EOLhyphen"/>ter often does.</p>
+            <p n="2">II. It manifeſtly raiſeth the Pulſe, chears the Heart, quickens the Spirits, invigorates the Fibers of the Blood, Glands, and other Veſſels, and reſtores their ſpringing Property. It cleanſeth the Body, and gently evacuates all ſuperfluous and noxious Hu<g ref="char:EOLhyphen"/>mours by Stools, Urine, and Perſpiration.</p>
+            <p n="3">III. Theſe Waters remove the Diſeaſes ariſing from preternatural Heat, by waſhing away all bilious and aduſt Humours, and diſſolving acrid alcaleous Salts.</p>
+            <p n="4">IV. They cure the Diſeaſes proceeding from want of ſufficient Circulation in the Blood and Humours,
+<pb facs="tcp:37017:5"/>or from cold phlegmatick Juices, by giving the Blood a higher Degree of Motion, increaſing the Spi<g ref="char:EOLhyphen"/>rits, and attenuating, diſſolving, and evacuating all ex<g ref="char:EOLhyphen"/>crementious Humours, and aſſimilating them that are good.</p>
+            <p n="5">V. They remove all kind of Stoppages, and the Diſeaſes depending upon 'em and Wind; and upon that ſcore cure many Diſeaſes of the Head and Breaſt, and almoſt all the Diſeaſes of the Belly.</p>
+            <p n="6">VI. But the Caſes in which they are an admirable and almoſt an infallible Remedy are, 1. The In<g ref="char:EOLhyphen"/>firmities attending Old Age and Conſumptions, to which the little Well is an adequate Remedy. 2. The Stone and Gravel, which they not only cure by their expulſive, but alſo by their abſterſive and dilating Property. 3. The Gout and Rheumatick Pains, for which it is an unparallell'd Remedy. 4. The Scur<g ref="char:EOLunhyphen"/>vy, Melancholy, and Maladies depending upon the Mind. 5. Vapours, and moſt Diſeaſes of Women. 6. Colicks of all ſorts. 7. All inward and out<g ref="char:EOLhyphen"/>ward Ulcers, if not too far gone. 8. All Scabs, Itch, periodical Inflammations, and other Breakings out of the Skin, if never ſo rebellious.</p>
+            <p n="7">VII. The only Caſes I have found theſe Waters diſagree with, are the Diſeaſes incident to the hot, florid, and pletherick Conſtitutions of ſome ſtrong young People.</p>
+            <pb facs="tcp:37017:5"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
